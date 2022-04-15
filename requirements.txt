@@ -1,4 +1,3 @@
-projectapp
 projectname
 rango
 db.sqlite3
