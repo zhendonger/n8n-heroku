@@ -1,4 +1,3 @@
-projectname
 rango
 db.sqlite3
 manage.py
